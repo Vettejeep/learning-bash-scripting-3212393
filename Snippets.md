@@ -2,6 +2,14 @@
 
 This document contains the commands used in the course.
 
+## redirection
+> : to a file
+>> : append a file
+1> : std out
+2> : std err - may be needed if there is a boo-boo
+
+< : input from right to left
+
 ## 01_05 Bash expansions and substitutions
 ```bash
 echo ~
